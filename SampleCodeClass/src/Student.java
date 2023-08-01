@@ -32,11 +32,15 @@ public class Student {
         System.out.println("Testing...");
 
     }
+<<<<<<< HEAD
     
     void myTest(){
     	System.out.println("Hello");
+	System.out.println("Hello world!");
 	return;
     }
+=======
+>>>>>>> parent of 0c0bc66 (Update Student.java)
    
     void testAll()
  {
